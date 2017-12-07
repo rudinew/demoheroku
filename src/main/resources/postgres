@@ -1,0 +1,6 @@
+CREATE TABLE country
+(ID bigserial  PRIMARY KEY,
+ name VARCHAR(255)
+);
+
+
