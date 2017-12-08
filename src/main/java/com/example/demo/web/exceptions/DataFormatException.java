@@ -1,4 +1,4 @@
-package com.example.demo.backend;
+package com.example.demo.web.exceptions;
 
 /**
  * for HTTP 400 errors

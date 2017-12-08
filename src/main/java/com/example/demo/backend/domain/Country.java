@@ -1,6 +1,8 @@
-package com.example.demo.backend;
+package com.example.demo.backend.domain;
 
 
+
+import com.example.demo.backend.domain.BaseEntity;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;

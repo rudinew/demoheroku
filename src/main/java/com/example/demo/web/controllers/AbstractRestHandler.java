@@ -1,6 +1,8 @@
-package com.example.demo.backend;
+package com.example.demo.web.controllers;
 
 
+import com.example.demo.backend.domain.RestErrorInfo;
+import com.example.demo.web.exceptions.ResourceNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ApplicationEventPublisher;

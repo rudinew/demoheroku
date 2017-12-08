@@ -1,5 +1,8 @@
-package com.example.demo.backend;
+package com.example.demo.backend.service;
 
+import com.example.demo.backend.domain.Country;
+import com.example.demo.backend.repositories.CountryRepository;
+import com.example.demo.backend.service.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.example.demo.backend;
+package com.example.demo.backend.domain;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
